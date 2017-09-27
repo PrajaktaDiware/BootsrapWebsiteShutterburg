@@ -1,0 +1,9 @@
+
+function add(){
+    var a= document.getElementById("email").value;
+     var b= document.getElementById("pass").value;
+     var c= a + b;
+//   alert(a + b);
+   alert(c);
+    
+}
